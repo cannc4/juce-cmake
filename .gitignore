@@ -1,3 +1,6 @@
 xcode
 build
 
+test/CMakeCache.txt
+test/CMakeFiles
+*.DS_Store
